@@ -4,96 +4,30 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+I am an a Senior Hotdog Analysis from Harvard, Boston. Here I got my Masters
+PhD in Hotdog Analysis where I am legally able to discuss what is a hotdog and
+what isn't a hotdog.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+In this blog log, I am going to discuss the different types of hotdogs I have
+eaten and try to answer the oldest question known to man, "is a hotdog a
+sandwhich?"
 
-## Features
+Besides my Masters PhD in Hotdog Analysis, I have qualifications on eating
+hotdogs from a young ripe age of baby. When my uncle would take care of me when
+my parents were working, I would go to his refrigrator and take the pre-cooked
+hotdogs out and slurp them hotdogs down like they were jello. Mhhhmm, wet cold
+hotdogs, these are the definition of memories.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+This did lead me to a hole of being a well rounded child, my nickname was "fat
+kid" given to me by my parents and family.
 
-## Based on
+I was able to get myself out of the hole, lost weight, and went to get my
+Masters PhD in Hotdog Analysis at Harvard, Boston. I continue to eat hotdogs
+today but as a luxury rather than for a past time.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+I live by a quote that goes by
+>The world always seems juicy when you’ve just made hotdogs that wasn’t there before. <cite>New Fork Times</cite>
 
-## Installation (jekyll-remote-theme method)
+As a hobby, I watch and quote *I Think You Should Leave* by [Tim Robinson](https://www.youtube.com/watch?v=WLfAf8oHrMo).
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+*Thank you for hotdog!*
