@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-I am an a Senior Hotdog Analysis from Harvard, Boston. Here I got my Masters
+I am a Senior Hotdog Analyst from Harvard, Boston. Here I got my Masters
 PhD in Hotdog Analysis where I am legally able to discuss what is a hotdog and
 what isn't a hotdog.
 
