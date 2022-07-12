@@ -24,23 +24,23 @@ Ireland (and other countries) drive on the wrong side of the road. But did you
 know they did this because of an accident that led to a 5 year old girl death
 back in 1700's?
 
-You see, some young bloke was driving his horse cartage on the right side of
-the road while sitting on the left side of the cartage, and this young bloke
+You see, some young bloke was driving his horse carriage on the right side of
+the road while sitting on the left side of the carriage, and this young bloke
 was eating a hotdog with his right hand (which is his dominant hand) while
-trying to shift gears in his horse cartage with his right hand. This young
-bloke tried reaching his left hand over to shift gears on his horse cartage
+trying to shift gears in his horse carriage with his right hand. This young
+bloke tried reaching his left hand over to shift gears on his horse carriage
 where he smacked his right hand and dropped his hotdog on the floor. The hotdog
-rolled up to the gas pedal and slamed down on it which led to the horse cartage
-to go full force of 2 horses power.
+rolled up to the gas pedal and slamed down on it which led to the horse carriage
+to go full force of 2 horse power.
 
 At the same time, the 5 year old girl was crossing the street when the young
-bloke was going full force with his 2 horses power horse cartage. The horses
+bloke was going full force with his 2 horse power horse carriage. The horses
 trampled over the 5 year old girl which led to her death 40 years later of
 natural causes. When the police came to her death bed, her last words were
 
 > If only we could drive on the left side of the road while sit on the right
 > side of the car, we could enjoy our eating our hotdogs while changing gears
-> safely on our horse cartage, I would've lived a couple more years and eaten a
+> safely on our horse carriage, I would've lived a couple more years and eaten a
 > couple more hotdogs.
 
 This is the reason why people around Europe drive on the other side.
@@ -99,12 +99,12 @@ grill then deep fried to make the outside crunchy while maintaining the inside
 juicy.  The onions were chopped into small bits and then deep fried. The bun
 were cut in half to place the hotdog between and was _not_ deep fried but it
 was toasted on the grill. With my first bite into the hotdog, hand to God, I
-was in come into contact with the 5 year old girl that got trampled by the 2
-horses power horse cartage that was driven by the young bloke that dropped his
-hotdog while trying to shift gears on with his left hand on the right side of
-the road while sitting on the left side of the car. I felt her when she told
-her last words on changing the way they drive in Ireland. I too want to be able
-to drive, eat a hotdog, and shift gears all together at the same time.
+came into contact with the 5 year old girl that got trampled by the 2 horse
+power horse carriage that was driven by the young bloke that dropped his hotdog
+while trying to shift gears on with his left hand on the right side of the road
+while sitting on the left side of the car. I felt her when she told her last
+words on changing the way they drive in Ireland. I too want to be able to
+drive, eat a hotdog, and shift gears all together at the same time.
 
 The hotdog was that good, it popped me back into a fifth dimension where I
 could see time, space, and taste differently.
