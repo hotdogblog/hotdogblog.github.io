@@ -58,9 +58,9 @@ hours at the rock climbing gym, crimping different rocks, flagging each block,
 and fist jamming a crack; I was beat. I couldn't figure out how to untie my
 velcro shoes without tiring myself even more.
 
-Then to quickly transition my mental tired state to grasping onto a hotdog bun,
+Then to quickly transition my mental *tired* state to grasping onto a hotdog bun,
 my mind was racing on what my legs should do after I was balanced out. I had
-that hotdog bun in a two handed crimp like I was back at the gym. Eating this
+that hotdog bun in a two handed crimp grip like I was back at the gym. Eating this
 hotdog wasn't like any other hotdog out there. I broke a sweat from eating this
 hotdog. One part of my body was devouring this pork tube and the other part of
 my body was pootling up the table. It was a full body workout if I ever worked
