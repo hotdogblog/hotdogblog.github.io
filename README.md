@@ -5,12 +5,12 @@ layout: page
 ---
 
 I am a Senior Hotdog Analyst from Harvard, Boston. Here I got my Masters
-PhD in Hotdog Analysis where I am legally able to discuss what is a hotdog and
+PhD in Hotdog Analytics where I am legally able to discuss what is a hotdog and
 what isn't a hotdog.
 
 In this blog log, I am going to discuss the different types of hotdogs I have
 eaten and try to answer the oldest question known to man, "is a hotdog a
-sandwhich?"
+sandwich?"
 
 Besides my Masters PhD in Hotdog Analysis, I have qualifications on eating
 hotdogs from a young ripe age of baby. When my uncle would take care of me when
