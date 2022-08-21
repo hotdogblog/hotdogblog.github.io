@@ -1,5 +1,5 @@
 ---
-title:  "Have you tried fist jaming crack?"
+title:  "Have you tried fist jamming crack?"
 layout: post
 categories: media
 ---
