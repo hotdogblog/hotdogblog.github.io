@@ -1,5 +1,3 @@
-
-
 ---
 title:  "The Toe on this Joe"
 layout: post
